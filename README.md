@@ -1,4 +1,4 @@
-# Guided Practice - Table Mini
+# Block 36 PostgreSQL, Guided Practice: Table Mini
 
 Build out an API that helps restaurants keep track of their reservations. Customers will be able to make reserve a table at a restaurant of their choice while waiting in line!
 
